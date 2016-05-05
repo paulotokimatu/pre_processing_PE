@@ -22,3 +22,4 @@ make -f pre_processing r1=[read_r1.fastq] r2=[read_r2.fastq] NAME=[sample_name]
 ```
 **Potential problems:**
 
+The script clean_solexa merges both paired-end files in a single one. 
