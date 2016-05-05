@@ -12,13 +12,9 @@ The resulting files can now be used in genome assembling, variation analysis and
 
 **Requirements:**
 
-- Trim Galore! installed
+- [Trim Galore!](http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/) installed;
 
-http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/
-
-- Cutadapt in your path 
-
-http://cutadapt.readthedocs.io/en/stable/index.html
+- [Cutadapt](http://cutadapt.readthedocs.io/en/stable/index.html) in your path.
 
 **Usage:**
 
