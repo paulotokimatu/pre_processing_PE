@@ -10,7 +10,7 @@ This workflow was designed to work in paired-end reads from Illumina technology.
 
 The resulting files can now be used in genome assembling, variation analysis and others.
 
-**Requirements:
+**Requirements:**
 
 - Trim Galore! installed
 
@@ -20,6 +20,6 @@ http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/
 
 http://cutadapt.readthedocs.io/en/stable/index.html
 
-**Usage:
+**Usage:**
 
 $ make -f pre_processing r1=[read_r1.fastq] r2=[read_r2.fastq] NAME=[sample_name]
