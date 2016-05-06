@@ -26,4 +26,5 @@ The script clean_solexa merges both paired-end files in a single one, but the ne
 
 **Contact:**
 As I am still inexperienced and learning about GNU Make, I am sure the workflow is still lacking, so any questions, recommendations or problems please send me an email.
+
 paulomtf a-t lge.ibi.unicamp.br
