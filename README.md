@@ -13,8 +13,9 @@ The resulting files can now be used in genome assembling, variation analysis and
 **Requirements:**
 
 - [Trim Galore!](http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/) installed;
+- [Cutadapt](http://cutadapt.readthedocs.io/en/stable/index.html) in your path;
+- Raw files on the same folder as pre_processing_PE.mk (for example in a folder reads/).
 
-- [Cutadapt](http://cutadapt.readthedocs.io/en/stable/index.html) in your path.
 
 **Usage:**
 ```
